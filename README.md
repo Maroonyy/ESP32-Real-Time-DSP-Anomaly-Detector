@@ -23,7 +23,8 @@ This system acts as a real-time vibration/anomaly monitor, built using textbook 
 
 You do not need to compile this locally to see it run. You can test the memory management and DSP filtering live in the browser:
 
-**[🔗 Click Here to Run the Live Wokwi Simulation]** *(Note: Paste your Wokwi project link here!)*
+**[🔗 Click Here to Run the Live Wokwi Simulation]**
+https://wokwi.com/projects/468172162372754433
 
 **To test the anomaly detector:**
 1. Start the simulation.
